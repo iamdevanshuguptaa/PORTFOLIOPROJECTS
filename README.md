@@ -26,3 +26,5 @@ This project was done on Jupyter Notebook, mainly based on Python. In this proje
 * Some of the visualizations from the project:
 ![image](https://user-images.githubusercontent.com/109216952/213915361-84f61340-349e-4f2d-bd0a-aa8019fe73ba.png)
 ![image](https://user-images.githubusercontent.com/109216952/213915378-1baeb56a-3d19-4ea3-9924-a605c29710c5.png)
+
+
