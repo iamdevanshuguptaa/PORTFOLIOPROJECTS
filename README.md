@@ -1,4 +1,4 @@
-# About Devanshu Gupta's portfolio [![image](https://user-images.githubusercontent.com/109216952/214114483-989ced41-3dd1-4c3c-bd52-082b82f13ec2.png)](https://www.linkedin.com/in/devanshu-gupta-2723221a8/)
+# About Devanshu Gupta's portfolio [<img src= https://user-images.githubusercontent.com/109216952/214114483-989ced41-3dd1-4c3c-bd52-082b82f13ec2.png , width=200, height = 100>](https://www.linkedin.com/in/devanshu-gupta-2723221a8/)
 
 
 # [Project 1: Survey on Masculinity in the USA](https://public.tableau.com/app/profile/devanshu.gupta3647/viz/MasculinitySurvey_16702528343170/Maindashboard)
