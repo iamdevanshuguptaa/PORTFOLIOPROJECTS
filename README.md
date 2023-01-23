@@ -37,6 +37,7 @@ You can download the required dataset from the following website-> https://ourwo
 * Divided the original dataset into two .csv files:
 1. CovidDeaths.csv
 2. CovidVaccinations.csv
+
 You can find these dataset here- [Divided covid datasets.zip](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/files/10476401/Divided.covid.datasets.zip)
 Since I love python, I used Jupyter Notebook here. You can directly execute this step using MS-Excel.
 
