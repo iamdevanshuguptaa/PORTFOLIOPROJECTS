@@ -64,6 +64,20 @@ Thank you!
 * Used CTE's.
 * Atlast, deleted unused columns in the given dataset.
 
+# [Project 5: Analyzing TV Data](https://app.datacamp.com/workspace/w/46c0423a-4565-4523-9423-ec6e3b03c00a)
 
+This project is based on the history of Super Bowl party. In this project, I've cleaned and explored the data mainly using Pandas. I've used Seaborn and Matplotlib for data visualization.
+
+![image](https://user-images.githubusercontent.com/109216952/214121652-ee9acdb4-96d9-433b-9269-c669e880ed6c.png)
+![image](https://user-images.githubusercontent.com/109216952/214121686-bed3a6cb-5a07-41ee-85df-e5bbadb0fee8.png)
+![image](https://user-images.githubusercontent.com/109216952/214121712-15c0b112-487b-40eb-af40-bdee4ad43266.png)
+![image](https://user-images.githubusercontent.com/109216952/214121833-8ac9a393-67f6-4914-a2c0-a66e7d466e93.png)
+
+# [Project 6: Dr. Semmelweis and the Discovery of Handwashing](https://app.datacamp.com/workspace/w/485c3ddd-f064-4dfe-be7e-e098edaa0986)
+
+In this project, I've analyzed the data that made Semmelweis discover the importance of handwashing. 
+
+![image](https://user-images.githubusercontent.com/109216952/214122372-4ca5cd7d-8773-4617-8f1c-ea28eeace84d.png)
+![image](https://user-images.githubusercontent.com/109216952/214122415-e5ab7bd3-a709-43af-8c74-dc0abc13bbb2.png)
 
 
