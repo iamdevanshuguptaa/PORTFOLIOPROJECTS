@@ -45,10 +45,10 @@ Since I love python, I used Jupyter Notebook here. You can directly execute this
 
 * Performed some basic operations and functions so that data can be easily explored and visualized by Tableau.
 * Extracted 4 sub .csv files 
-4. [Table1_GlobalNumbers.csv](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/files/10476352/Table1_GlobalNumbers.csv),
-5. [Table2_DeathsInContinent.csv](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/files/10476355/Table2_DeathsInContinent.csv),
-6. [Table3_HighestInfectionRateComparedPopulation.csv](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/files/10476354/Table3_HighestInfectionRateComparedPopulation.csv) and
-7. [Table4_HighestInfectionRateComparedPopulationpt2.csv](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/files/10476359/Table4_HighestInfectionRateComparedPopulationpt2.csv)
+1. [Table1_GlobalNumbers.csv](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/files/10476352/Table1_GlobalNumbers.csv),
+2. [Table2_DeathsInContinent.csv](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/files/10476355/Table2_DeathsInContinent.csv),
+3. [Table3_HighestInfectionRateComparedPopulation.csv](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/files/10476354/Table3_HighestInfectionRateComparedPopulation.csv) and
+4. [Table4_HighestInfectionRateComparedPopulationpt2.csv](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/files/10476359/Table4_HighestInfectionRateComparedPopulationpt2.csv)
 
 ## [File 3: Covid Dashboard.tbwx](https://public.tableau.com/views/CovidDashboard_16727675035610/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
