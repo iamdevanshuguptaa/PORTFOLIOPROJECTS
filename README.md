@@ -57,7 +57,7 @@ Thank you!
 * Glimpse to that dashboard->
 ![image](https://user-images.githubusercontent.com/109216952/213959746-060d22e0-d2cb-4034-bfe5-ccb4237ddb4e.png)
 
-# [Project 4: Nashville Housing Data for data cleaning using MySQL](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/blob/main/nashvilleDataCleaning.sql)
+# [Project 4: Data cleaning using MySQL- Nashville Housing Data](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/blob/main/nashvilleDataCleaning.sql)
 
 * Dataset: [Nashville Housing Data for Data Cleaning.xlsx.zip](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/files/10476525/Nashville.Housing.Data.for.Data.Cleaning.xlsx.zip)
 * Cleaned this dataset by using MySQL.
