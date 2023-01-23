@@ -1,4 +1,4 @@
-# About my portfolio
+# About my portfolio project
 
 # [Project 1: Survey on Masculinity in the USA](https://public.tableau.com/app/profile/devanshu.gupta3647/viz/MasculinitySurvey_16702528343170/Maindashboard)
 This is the first project I did for my portfolio, where I built dashboards using a masculinity dataset.
@@ -33,13 +33,31 @@ You can download the required dataset from the following website-> https://ourwo
 
 ## [File 1: Data Cleaning by python- covid-data-cleaning.ipynb](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/blob/main/Major%20Project-Covid-19/Covid-data-cleaning.ipynb) 
 
-* In this file, I've dropped some unnecessary fields from the .csv file by using MySQL.
+* In this file, I've dropped some unnecessary fields from the .csv file by using pandas.
+* Divided the original dataset into two .csv files:
+1. CovidDeaths.csv
+2. CovidVaccinations.csv
+You can find these dataset here- [Divided covid datasets.zip](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/files/10476401/Divided.covid.datasets.zip)
+Since I love python, I used Jupyter Notebook here. You can directly execute this step using MS-Excel.
+
+## [File 2: Data Cleaning by MySQL- COVID PORTFOLIO PROJECT.sql](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/blob/main/Major%20Project-Covid-19/COVID%20PORTFOLIO%20PROJECT.sql)
+
 * Performed some basic operations and functions so that data can be easily explored and visualized by Tableau.
 * Extracted 4 sub .csv files 
-1. [Table1_GlobalNumbers.csv](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/files/10476352/Table1_GlobalNumbers.csv),
-2. [Table2_DeathsInContinent.csv](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/files/10476355/Table2_DeathsInContinent.csv),
-3. [Table3_HighestInfectionRateComparedPopulation.csv](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/files/10476354/Table3_HighestInfectionRateComparedPopulation.csv) and
-4. [Table4_HighestInfectionRateComparedPopulationpt2.csv](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/files/10476359/Table4_HighestInfectionRateComparedPopulationpt2.csv)
+4. [Table1_GlobalNumbers.csv](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/files/10476352/Table1_GlobalNumbers.csv),
+5. [Table2_DeathsInContinent.csv](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/files/10476355/Table2_DeathsInContinent.csv),
+6. [Table3_HighestInfectionRateComparedPopulation.csv](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/files/10476354/Table3_HighestInfectionRateComparedPopulation.csv) and
+7. [Table4_HighestInfectionRateComparedPopulationpt2.csv](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/files/10476359/Table4_HighestInfectionRateComparedPopulationpt2.csv)
+
+## [File 3: Covid Dashboard.tbwx](https://public.tableau.com/views/CovidDashboard_16727675035610/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+* By using the 4 csv files extracted by SQL, I've visualized them on a single dashboard. Explore and play around with it.
+Thank you!
+* Glimpse to that dashboard->
+![image](https://user-images.githubusercontent.com/109216952/213959746-060d22e0-d2cb-4034-bfe5-ccb4237ddb4e.png)
+
+# [Project 4: Nashville Housing Data for data cleaning]
+
 
 
 
