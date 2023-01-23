@@ -1,4 +1,4 @@
-# About my portfolio project
+# About my portfolio
 
 # [Project 1: Survey on Masculinity in the USA](https://public.tableau.com/app/profile/devanshu.gupta3647/viz/MasculinitySurvey_16702528343170/Maindashboard)
 This is the first project I did for my portfolio, where I built dashboards using a masculinity dataset.
