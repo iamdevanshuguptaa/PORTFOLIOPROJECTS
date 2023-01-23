@@ -28,3 +28,4 @@ This project was done on Jupyter Notebook, mainly based on Python. In this proje
 ![image](https://user-images.githubusercontent.com/109216952/213915378-1baeb56a-3d19-4ea3-9924-a605c29710c5.png)
 
 
+# [Project 3: Major Project-Covid-19](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/tree/main/Major%20Project-Covid-19)
