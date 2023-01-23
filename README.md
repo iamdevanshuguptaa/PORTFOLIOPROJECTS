@@ -29,3 +29,17 @@ This project was done on Jupyter Notebook, mainly based on Python. In this proje
 
 
 # [Project 3: Major Project-Covid-19](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/tree/main/Major%20Project-Covid-19)
+You can download the required dataset from the following website-> https://ourworldindata.org/covid-deaths
+
+## [File 1: Data Cleaning by python- covid-data-cleaning.ipynb](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/blob/main/Major%20Project-Covid-19/Covid-data-cleaning.ipynb) 
+
+* In this file, I've dropped some unnecessary fields from the .csv file by using MySQL.
+* Performed some basic operations and functions so that data can be easily explored and visualized by Tableau.
+* Extracted 4 sub .csv files 
+1. [Table1_GlobalNumbers.csv](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/files/10476352/Table1_GlobalNumbers.csv),
+2. [Table2_DeathsInContinent.csv](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/files/10476355/Table2_DeathsInContinent.csv),
+3. [Table3_HighestInfectionRateComparedPopulation.csv](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/files/10476354/Table3_HighestInfectionRateComparedPopulation.csv) and
+4. [Table4_HighestInfectionRateComparedPopulationpt2.csv](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/files/10476359/Table4_HighestInfectionRateComparedPopulationpt2.csv)
+
+
+
