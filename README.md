@@ -29,7 +29,7 @@ This project was done on Jupyter Notebook, mainly based on Python. In this proje
 
 
 # [Project 3: Major Project-Covid-19](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/tree/main/Major%20Project-Covid-19)
-You can download the required dataset from the following website-> https://ourworldindata.org/covid-deaths
+You can download the required dataset from the following website-> (https://ourworldindata.org/covid-deaths)
 
 ## [File 1: Data Cleaning by python- covid-data-cleaning.ipynb](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/blob/main/Major%20Project-Covid-19/Covid-data-cleaning.ipynb) 
 
@@ -38,7 +38,8 @@ You can download the required dataset from the following website-> https://ourwo
 1. CovidDeaths.csv
 2. CovidVaccinations.csv
 
-You can find these dataset here- [Divided covid datasets.zip](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/files/10476401/Divided.covid.datasets.zip)
+You can find these datasets here- [Divided covid datasets.zip](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/files/10476401/Divided.covid.datasets.zip).
+
 Since I love python, I used Jupyter Notebook here. You can directly execute this step using MS-Excel.
 
 ## [File 2: Data Cleaning by MySQL- COVID PORTFOLIO PROJECT.sql](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/blob/main/Major%20Project-Covid-19/COVID%20PORTFOLIO%20PROJECT.sql)
