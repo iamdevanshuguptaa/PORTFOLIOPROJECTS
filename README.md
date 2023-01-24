@@ -29,7 +29,7 @@ This project was done on Jupyter Notebook, mainly based on Python. In this proje
 
 
 # [Project 3: Major Project-Covid-19](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/tree/main/Major%20Project-Covid-19)
-You can download the required dataset from the following website-> (https://ourworldindata.org/covid-deaths)
+You can download the required dataset from the following website-> [https://ourworldindata.org/covid-deaths](https://ourworldindata.org/covid-deaths)
 
 ## [File 1: Data Cleaning by python- covid-data-cleaning.ipynb](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/blob/main/Major%20Project-Covid-19/Covid-data-cleaning.ipynb) 
 
