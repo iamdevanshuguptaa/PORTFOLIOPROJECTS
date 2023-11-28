@@ -1,6 +1,23 @@
 # About Devanshu Gupta's portfolio
 
-# [Project 1: Survey on Masculinity in the USA](https://public.tableau.com/app/profile/devanshu.gupta3647/viz/MasculinitySurvey_16702528343170/Maindashboard)
+# [Project 1:London Bike Rides](https://public.tableau.com/views/LondonBikeRides_17010780932340/LondonBikeRides?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+This project consists of well-organised dashboard where I tried to visualize the avg. moving rides in London in different climatic conditions such as Temperature, Windspeed and weather.
+
+* Total Rides between the selected range where dashboard automatically detect the min. and max. range for months and display visualization accordingly.
+* Tried to pullout the use of "Tooltips" with finese so that whenever you hover over the timeline graph, you'll see two nice and clean barcharts for the selected range.
+* Applied clear filters, so just play with it and enjoy!!!
+* Dataset: London Bike rides Dataset (From Kaggle)
+
+
+![image](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/assets/109216952/134c845f-c3e7-48f1-a7ac-5c7917546b63)
+![image](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/assets/109216952/2cfc8b78-01ba-4a83-9b3f-4591ccda8f49)
+
+
+
+
+
+# [Project 2: Survey on Masculinity in the USA](https://public.tableau.com/app/profile/devanshu.gupta3647/viz/MasculinitySurvey_16702528343170/Maindashboard)
 This is the first project I did for my portfolio, where I built dashboards using a masculinity dataset.
 
 * Data was taken from the masculinitysurvey dataset.
@@ -16,7 +33,7 @@ This is the first project I did for my portfolio, where I built dashboards using
 Do check it out!
 
 
-# [Project 2: Movie Correlation Project](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/blob/667a06e5f1d16db4807aa6b0cf7bcf79de11425f/moviecorrelationproject.ipynb)
+# [Project 3: Movie Correlation Project](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/blob/667a06e5f1d16db4807aa6b0cf7bcf79de11425f/moviecorrelationproject.ipynb)
 
 This project was done on Jupyter Notebook, mainly based on Python. In this project, I've found some correlations between different fields of the given dataset.
 
@@ -28,7 +45,7 @@ This project was done on Jupyter Notebook, mainly based on Python. In this proje
 ![image](https://user-images.githubusercontent.com/109216952/213915378-1baeb56a-3d19-4ea3-9924-a605c29710c5.png)
 
 
-# [Project 3: Major Project-Covid-19](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/tree/main/Major%20Project-Covid-19)
+# [Project 4: Major Project-Covid-19](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/tree/main/Major%20Project-Covid-19)
 You can download the required dataset from the following website-> [https://ourworldindata.org/covid-deaths](https://ourworldindata.org/covid-deaths)
 
 ## [File 1: Data Cleaning by python- covid-data-cleaning.ipynb](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/blob/main/Major%20Project-Covid-19/Covid-data-cleaning.ipynb) 
@@ -58,14 +75,14 @@ Thank you!
 * Glimpse to that dashboard->
 ![image](https://user-images.githubusercontent.com/109216952/213959746-060d22e0-d2cb-4034-bfe5-ccb4237ddb4e.png)
 
-# [Project 4: Data cleaning using MySQL- Nashville Housing Data](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/blob/main/nashvilleDataCleaning.sql)
+# [Project 5: Data cleaning using MySQL- Nashville Housing Data](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/blob/main/nashvilleDataCleaning.sql)
 
 * Dataset: [Nashville Housing Data for Data Cleaning.xlsx.zip](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/files/10476525/Nashville.Housing.Data.for.Data.Cleaning.xlsx.zip)
 * Cleaned this dataset by using MySQL.
 * Used CTE's.
 * Atlast, deleted unused columns in the given dataset.
 
-# [Project 5: Analyzing TV Data - Python](https://app.datacamp.com/workspace/w/46c0423a-4565-4523-9423-ec6e3b03c00a)
+# [Project 6: Analyzing TV Data - Python](https://app.datacamp.com/workspace/w/46c0423a-4565-4523-9423-ec6e3b03c00a)
 
 This project is based on the history of Super Bowl party. In this project, I've cleaned and explored the data mainly using Pandas. I've used Seaborn and Matplotlib for data visualization. You can show this project by clicking on the header.
 
@@ -74,7 +91,7 @@ This project is based on the history of Super Bowl party. In this project, I've 
 ![image](https://user-images.githubusercontent.com/109216952/214121712-15c0b112-487b-40eb-af40-bdee4ad43266.png)
 ![image](https://user-images.githubusercontent.com/109216952/214121833-8ac9a393-67f6-4914-a2c0-a66e7d466e93.png)
 
-# [Project 6: Dr. Semmelweis and the Discovery of Handwashing - Python](https://app.datacamp.com/workspace/w/485c3ddd-f064-4dfe-be7e-e098edaa0986)
+# [Project 7: Dr. Semmelweis and the Discovery of Handwashing - Python](https://app.datacamp.com/workspace/w/485c3ddd-f064-4dfe-be7e-e098edaa0986)
 
 In this project, I've analyzed the data that made Semmelweis discover the importance of handwashing. You can show this project by clicking on the header.
 
