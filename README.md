@@ -1,6 +1,6 @@
 # About Devanshu Gupta's portfolio
 
-# [Project 1:London Bike Rides](https://public.tableau.com/views/LondonBikeRides_17010780932340/LondonBikeRides?:language=en-US&:display_count=n&:origin=viz_share_link)
+# [Project 1: London Bike Rides](https://public.tableau.com/views/LondonBikeRides_17010780932340/LondonBikeRides?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 This project consists of well-organised dashboard where I tried to visualize the avg. moving rides in London in different climatic conditions such as Temperature, Windspeed and weather.
 
