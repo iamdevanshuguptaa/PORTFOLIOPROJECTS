@@ -81,7 +81,7 @@ Thank you!
 * Atlast, deleted unused columns in the given dataset.
 
 
-# [Project 2: Washington House Sales](https://public.tableau.com/app/profile/devanshu.gupta3647/viz/WashingtonHouseSales_17012368024790/KingCountyHouseSales)
+# [Project 6: Washington House Sales](https://public.tableau.com/app/profile/devanshu.gupta3647/viz/WashingtonHouseSales_17012368024790/KingCountyHouseSales)
 The aim for this project is to find out the Daily avg. House Sales in King County, Washington between the May 2014 and May 2015. I have tried to categorize the house as per the views such as excellent, good, fair, etc. and conditions such as Fair-Badly worn, poor-worn out etc. with the help filters, in different zip codes.
 
 * Dataset:- [HouseData.xlsx](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/files/13520731/HouseData.xlsx)
