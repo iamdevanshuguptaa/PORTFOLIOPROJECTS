@@ -1,19 +1,16 @@
 # About Devanshu Gupta's portfolio
 
-# [Project 1: London Bike Rides](https://public.tableau.com/views/LondonBikeRides_17010780932340/LondonBikeRides?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-This project consists of well-organised dashboard where I tried to visualize the avg. moving rides in London in different climatic conditions such as Temperature, Windspeed and weather.
+# [Project 1: Movie Correlation Project](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/blob/667a06e5f1d16db4807aa6b0cf7bcf79de11425f/moviecorrelationproject.ipynb)
 
-* Total Rides between the selected range where dashboard automatically detect the min. and max. range for months and display visualization accordingly.
-* Tried to pullout the use of "Tooltips" with finese so that whenever you hover over the timeline graph, you'll see two nice and clean barcharts for the selected range.
-* Applied clear filters, so just play with it and enjoy!!!
-* Dataset: London Bike rides Dataset (From Kaggle)
+This project was done on Jupyter Notebook, mainly based on Python. In this project, I've found some correlations between different fields of the given dataset.
 
-
-![image](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/assets/109216952/134c845f-c3e7-48f1-a7ac-5c7917546b63)
-![image](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/assets/109216952/2cfc8b78-01ba-4a83-9b3f-4591ccda8f49)
-
-
+* Data was taken from the movie dataset.
+* The dataset: [movies.csv.zip](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/files/10474382/movies.csv.zip)
+* The project is mainly based on pandas(for data cleaning), numpy(for statistics), seaborn and matplotlib(for data visualization).
+* Some of the visualizations from the project:
+![image](https://user-images.githubusercontent.com/109216952/213915361-84f61340-349e-4f2d-bd0a-aa8019fe73ba.png)
+![image](https://user-images.githubusercontent.com/109216952/213915378-1baeb56a-3d19-4ea3-9924-a605c29710c5.png)
 
 
 
@@ -32,17 +29,18 @@ This is the first project I did for my portfolio, where I built dashboards using
 
 Do check it out!
 
+# [Project 3: London Bike Rides](https://public.tableau.com/views/LondonBikeRides_17010780932340/LondonBikeRides?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-# [Project 3: Movie Correlation Project](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/blob/667a06e5f1d16db4807aa6b0cf7bcf79de11425f/moviecorrelationproject.ipynb)
+This project consists of well-organised dashboard where I tried to visualize the avg. moving rides in London in different climatic conditions such as Temperature, Windspeed and weather.
 
-This project was done on Jupyter Notebook, mainly based on Python. In this project, I've found some correlations between different fields of the given dataset.
+* Total Rides between the selected range where dashboard automatically detect the min. and max. range for months and display visualization accordingly.
+* Tried to pullout the use of "Tooltips" with finese so that whenever you hover over the timeline graph, you'll see two nice and clean barcharts for the selected range.
+* Applied clear filters, so just play with it and enjoy!!!
+* Dataset: London Bike rides Dataset (From Kaggle)
 
-* Data was taken from the movie dataset.
-* The dataset: [movies.csv.zip](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/files/10474382/movies.csv.zip)
-* The project is mainly based on pandas(for data cleaning), numpy(for statistics), seaborn and matplotlib(for data visualization).
-* Some of the visualizations from the project:
-![image](https://user-images.githubusercontent.com/109216952/213915361-84f61340-349e-4f2d-bd0a-aa8019fe73ba.png)
-![image](https://user-images.githubusercontent.com/109216952/213915378-1baeb56a-3d19-4ea3-9924-a605c29710c5.png)
+
+![image](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/assets/109216952/134c845f-c3e7-48f1-a7ac-5c7917546b63)
+![image](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/assets/109216952/2cfc8b78-01ba-4a83-9b3f-4591ccda8f49)
 
 
 # [Project 4: Major Project-Covid-19](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/tree/main/Major%20Project-Covid-19)
@@ -82,20 +80,12 @@ Thank you!
 * Used CTE's.
 * Atlast, deleted unused columns in the given dataset.
 
-# [Project 6: Analyzing TV Data - Python](https://app.datacamp.com/workspace/w/46c0423a-4565-4523-9423-ec6e3b03c00a)
 
-This project is based on the history of Super Bowl party. In this project, I've cleaned and explored the data mainly using Pandas. I've used Seaborn and Matplotlib for data visualization. You can show this project by clicking on the header.
+# [Project 2: Washington House Sales](https://public.tableau.com/app/profile/devanshu.gupta3647/viz/WashingtonHouseSales_17012368024790/KingCountyHouseSales)
+The aim for this project is to find out the Daily avg. House Sales in King County, Washington between the May 2014 and May 2015. I have tried to categorize the house as per the views such as excellent, good, fair, etc. and conditions such as Fair-Badly worn, poor-worn out etc. with the help filters, in different zip codes.
 
-![image](https://user-images.githubusercontent.com/109216952/214121652-ee9acdb4-96d9-433b-9269-c669e880ed6c.png)
-![image](https://user-images.githubusercontent.com/109216952/214121686-bed3a6cb-5a07-41ee-85df-e5bbadb0fee8.png)
-![image](https://user-images.githubusercontent.com/109216952/214121712-15c0b112-487b-40eb-af40-bdee4ad43266.png)
-![image](https://user-images.githubusercontent.com/109216952/214121833-8ac9a393-67f6-4914-a2c0-a66e7d466e93.png)
+* Dataset:- [HouseData.xlsx](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/files/13520731/HouseData.xlsx)
+* Developed a Tableau dashboard to visualize Daily avg. House sales at specific zip codes.
+* Distributed the house price, Bedrooms and Bathrooms using histograms followed by their views and conditions heatmap filtered by yr built, sqft. living and a nice calendar.
 
-# [Project 7: Dr. Semmelweis and the Discovery of Handwashing - Python](https://app.datacamp.com/workspace/w/485c3ddd-f064-4dfe-be7e-e098edaa0986)
-
-In this project, I've analyzed the data that made Semmelweis discover the importance of handwashing. You can show this project by clicking on the header.
-
-![image](https://user-images.githubusercontent.com/109216952/214122372-4ca5cd7d-8773-4617-8f1c-ea28eeace84d.png)
-![image](https://user-images.githubusercontent.com/109216952/214122415-e5ab7bd3-a709-43af-8c74-dc0abc13bbb2.png)
-
-
+![image](https://github.com/iamdevanshuguptaa/PORTFOLIOPROJECTS/assets/109216952/7bd9f1b7-0e1b-4141-8ee4-931cff4299c6)
